@@ -1,12 +1,12 @@
-﻿Uri: https://dwz.ge/3NI9h/
-File Name: D:\WebCopy\g.dazhong5.com\index.htm
+﻿Uri: https://fiy-cjn.github.io/lss-cn-nrijinj.aliyuncs.vnr/
+File Name: D:\WebCopy\fiy-cjn.github.io/lss-cn-nrijinj.aliyuncs.vnr\index.htm
 Content Type: text/html
 
-Uri: https://dwz.ge/3NI9h/css/style.css
-File Name: D:\WebCopy\g.dazhong5.com\css\style.css
+Uri: https://fiy-cjn.github.io/lss-cn-nrijinj.aliyuncs.vnr/css/style.css
+File Name: D:\WebCopy\fiy-cjn.github.io/lss-cn-nrijinj.aliyuncs.vnr\css\style.css
 Content Type: text/css
 
 Uri: https://q2.qlogo.cn/headimg_dl?spec=100&dst_uin=166831560
-File Name: D:\WebCopy\g.dazhong5.com\headimg_dl
+File Name: D:\WebCopy\fiy-cjn.github.io/lss-cn-nrijinj.aliyuncs.vnr\headimg_dl
 Content Type: image/jpeg
 
