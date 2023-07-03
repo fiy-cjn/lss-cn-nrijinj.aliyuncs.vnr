@@ -2,23 +2,23 @@ body,html{height:100%;margin:0;font-size:16px}
 body{font-family:-Android-system-font,YouYuan,Microsoft YaHei,Helvetica Neue,Helvetica,sans-serif}
 .ui-qlogo{width:55px;height:55px;background-size:100% 100%;margin:5px;border-radius:30px}
 .code-item{width:100%;display:none}
-#color{background-color:#009688}
+#color{background-color:#8a8f8a}
 .ui-flex-pack-center{-webkit-box-pack:center}
 .ui-flex-ver{-webkit-box-orient:vertical}
 .ui-flex-align-center{-webkit-box-align:center}
 h1,h2,h3,h4,h5{margin:0}
 .ui-panel{display:-webkit-box;width:100%;-webkit-box-sizing:border-box}
-.icon-weixin2{font-size:54px;color:#43A6D8}
+.icon-weixin2{font-size:54px;color:#8a8f8a}
 h1{font-size:25px}
 #ui-head{background-color:#fff;padding:10px 0}
 h2{font-size:16px;font-weight:400}
-.ui-tips{background-color:#fff;color:#43A6D8;font-size:20px;text-align:center;padding:5px 0;margin:25px auto;width:240px;border-radius:20px}
+.ui-tips{background-color:#fff;color:#8a8f8a;font-size:20px;text-align:center;padding:5px 0;margin:25px auto;width:240px;border-radius:20px}
 .ui-qrcode{background-color:#fff;border-radius:15px;width:230px;height:230px;margin:0 auto;text-align:center}
 .ui-qrcode img{width:210px;height:210px;margin-top:10px}
 .ui-paytext{border-bottom:1px dotted #fff;margin:0 auto;width:215px;height:25px}
 #ui-setps{color:#fff;text-align:center;font-size:14px}
 #ui-setps i{font-size:30px}
-.ui-circle{background-color:#fff;border-radius:50%;color:#43A6D8;text-align:center;font-size:11px;width:16px;height:16px;line-height:16px;margin:0 auto;margin-bottom:10px}
+.ui-circle{background-color:#fff;border-radius:50%;color:#8a8f8a;text-align:center;font-size:11px;width:16px;height:16px;line-height:16px;margin:0 auto;margin-bottom:10px}
 #ui-setps>div{padding:15px 10px 0 10px}
 .ui-box{-webkit-box-flex:1}
 .ui-padtop10{padding-top:8px;width: 85px;}
